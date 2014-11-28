@@ -8,6 +8,7 @@ The VM is provisioned with the essential packages needed to build an Intel Ediso
 
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](http://www.vagrantup.com/)
+* About 30GB of disk space on your host machine
 
 ## Setup
 
