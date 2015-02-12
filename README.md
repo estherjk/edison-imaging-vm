@@ -22,7 +22,7 @@ The VM is provisioned with the essential packages needed to build an Intel Ediso
 
 For details on building Edison images, see this [document from Intel](https://communities.intel.com/docs/DOC-23159).
 
-Click [here](https://communities.intel.com/docs/DOC-23242?_ga=1.216020368.701615573.1414539807) to download the latest Edison Linux Source Files (`.tgz`). If the `.tgz` file is downloaded into the shared folder, it is best to use this command when unpacking the file:
+Click [here](http://www.intel.com/support/edison/sb/CS-035180.htm) to download the latest Edison Linux Source Files (`.tgz`). If the `.tgz` file is downloaded into the shared folder, it is best to use this command when unpacking the file:
 
     tar xvf edison-src.tgz -C ~
 
