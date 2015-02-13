@@ -27,3 +27,5 @@ Click [here](http://www.intel.com/support/edison/sb/CS-035180.htm) to download t
     tar xvf edison-src.tgz -C ~
 
 where `edison-src.tgz` is the name of the downloaded file. `-C ~` unpacks the file into the root directory of the VM. If the source files are in the shared folder, you may run into issues when building an image.
+
+For an example on creating a custom image, see this [blog post](http://drejkim.com/blog/2014/11/22/building-an-edison-image-and-changing-the-root-partition-size/).
